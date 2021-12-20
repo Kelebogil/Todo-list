@@ -1,0 +1,6 @@
+header{ 
+    color-interpolation-filters: linearRGB #87ceeb;
+    background-color: #0A85D9 ;
+    background-clip:padding-box;
+    padding: auto;
+}
